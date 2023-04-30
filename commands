@@ -1,0 +1,9 @@
+mabolfathi@Maryam-Abolfathi's-MacBook-Pro-(13-inch,-M1,-2020) ~ % git version
+git version 2.37.0 (Apple Git-136)
+mabolfathi@Maryam-Abolfathi's-MacBook-Pro-(13-inch,-M1,-2020) ~ % git clone https://github.com/2moonrise/juice-shop.git
+Cloning into 'juice-shop'...
+remote: Enumerating objects: 115566, done.
+remote: Total 115566 (delta 0), reused 0 (delta 0), pack-reused 115566
+Receiving objects: 100% (115566/115566), 114.13 MiB | 2.36 MiB/s, done.
+Resolving deltas: 100% (90046/90046), done.
+mabolfathi@Maryam-Abolfathi's-MacBook-Pro-(13-inch,-M1,-2020) ~ % 
